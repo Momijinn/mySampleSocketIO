@@ -1,0 +1,2 @@
+# mySampleSocketIO
+socketIOを行う自己的なサンプルプログラム
